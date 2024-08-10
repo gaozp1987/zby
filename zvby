@@ -1,0 +1,74 @@
+央视频道,#genre#
+CCTV1综合,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
+CCTV2财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8#http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+CCTV4国际亚洲,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+CCTV6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV10蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV11戏曲,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+CCTV12科教,http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+CCTV13新闻,https://liveali.ifeng.com/live/CCTV.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+CCTV17农业农村,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+
+各省卫视,#genre#
+湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
+江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
+安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
+辽宁卫视,http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
+东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
+广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
+厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
+青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
+海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
+江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
+天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
+河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
+黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
+兵团卫视,http://by4.nty.tv189.cn/live/tm-bingtuantv-800k.m3u8
+河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
+海南卫视,http://by4.nty.tv189.cn/live/tm-traveltv-800k.m3u8
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+东南卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2/index.m3u8
+
+明星系列,#genre#
+成   龙,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+吴   京,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+甄子丹,http://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+李连杰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+周润发,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+周星驰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+林正英,http://aldirect.rtmp.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+刘德华,http://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+洪金宝,http://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+徐   峥,http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+黄   渤,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+刘   涛,http://aldirect.rtmp.huya.com/src/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
+王   晶,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+胡   军,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8
+唐国强,http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+陈道明,http://aldirect.rtmp.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8
+苏有朋,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+张卫健,http://aldirect.rtmp.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8
+陈小春,http://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+黄百鸣,http://aldirect.rtmp.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
+古天乐,http://aldirect.rtmp.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
+郑伊健,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+陈浩民,http://aldirect.rtmp.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
+李云龙,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+易中天,http://aldirect.rtmp.huya.com/backsrc/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
